@@ -12,7 +12,7 @@ Install my-project
 
 ```bash
   git clone https://github.com/adityaraj3644/whereUr.git
-  cd my-project
+  cd whereUr
   Open the pubspec.yaml file located inside the app folder
   Install it
       From the terminal: Run flutter pub get.
