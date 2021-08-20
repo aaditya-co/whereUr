@@ -4,6 +4,10 @@
 A Flutter app For fetching current Location with google maps. Gives latitude longitude & Current Address
 
 
+## 🔗 Download Apk
+[![download](https://img.shields.io/badge/Download-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](https://github.com/adityaraj3644/whereUr/releases/download/v1.0/WhereUr.apk)
+
+  
 
 
 ## Installation
@@ -22,6 +26,16 @@ Install my-project
   flutter run
 ```
 
+## Todo
+```bash
+    ✅ Add Google Map API in android/app/src/main/AndroidManifest.xml
+        <meta-data android:name="com.google.android.geo.API_KEY"
+                android:value="YOUR_API_KEY_HERE"/>
+    ✅ Add Yandex Geocoder API in lib/main.dart
+       final YandexGeocoder geo =
+            YandexGeocoder(apiKey: 'YANDEX_GEOCODER_API_HERE');
+
+ ```
     
 ## Screenshots
 Start
