@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   var locationMessage = '';
   Position _position;
   final YandexGeocoder geo =
-      YandexGeocoder(apiKey: '67592179-a250-4b9b-ac87-30ba420de147');
+      YandexGeocoder(apiKey: 'YANDEX_GEOCODER_API_HERE');
 
   String address = "Press Button to get Location Cordinates";
 
