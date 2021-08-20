@@ -8,7 +8,7 @@ A Flutter app For fetching current Location with google maps. Gives latitude lon
 
 ## Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
   git clone https://github.com/adityaraj3644/whereUr.git
@@ -35,5 +35,10 @@ Fetched user Location
 **Client:** Flutter, Dart
 
 **Plugin:** flutter_google_map, Location , Geolocator
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at adityarajlp@live.com
 
   
